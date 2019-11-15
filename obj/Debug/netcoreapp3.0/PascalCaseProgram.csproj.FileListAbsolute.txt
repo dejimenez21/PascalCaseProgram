@@ -1,0 +1,11 @@
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.exe
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.deps.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.runtimeconfig.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.runtimeconfig.dev.json
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.dll
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\bin\Debug\netcoreapp3.0\PascalCaseProgram.pdb
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\obj\Debug\netcoreapp3.0\PascalCaseProgram.csprojAssemblyReference.cache
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\obj\Debug\netcoreapp3.0\PascalCaseProgram.AssemblyInfoInputs.cache
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\obj\Debug\netcoreapp3.0\PascalCaseProgram.AssemblyInfo.cs
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\obj\Debug\netcoreapp3.0\PascalCaseProgram.dll
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\PascalCaseProgram\obj\Debug\netcoreapp3.0\PascalCaseProgram.pdb
